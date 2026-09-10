@@ -20,7 +20,7 @@ Hi! I am Yusuf Akintunde Azeez and a Statistician cum data analyst.
 
 ## Publications
 
-- Eigbe, N. C., **Yusuf, A. A.** (2025). ysicochemical, Microbial, and Heavy Metal Assessment of Sachet Water: Evaluating Potential Health Impacts in Mainland Lagos State, Nigeria. <https://www.academia.edu/127977299/Physicochemical_Microbial_and_Heavy_Metal_Assessment_of_Sachet_Water_Evaluating_Potential_Health_Impacts_in_Mainland_Lagos_State_Nigeriaia>
+- Eigbe, N. C., **Yusuf, A. A.** (2025). physicochemical, Microbial, and Heavy Metal Assessment of Sachet Water: Evaluating Potential Health Impacts in Mainland Lagos State, Nigeria. <https://www.academia.edu/127977299/Physicochemical_Microbial_and_Heavy_Metal_Assessment_of_Sachet_Water_Evaluating_Potential_Health_Impacts_in_Mainland_Lagos_State_Nigeriaia>
 
 - Usman, N. A., **Yusuf, A. A.**, Shittu, O. D. (2024). Understanding Covid-19 Vaccine Hesitancy among Low-Income Earners in Oshodi/Isolo Local Government Area, Lagos State, Nigeria. <https://www.texilajournal.com/v2/public-health/article/2577-understanding-covid-19-vaccine>
 

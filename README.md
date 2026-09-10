@@ -38,7 +38,7 @@ Hi! I am Yusuf Akintunde Azeez and a Statistician cum data analyst.
 
 <h2>Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"/></h2>
 
-<a href = 'https://www.twitter.com/'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px" align="center"/></a> <a href = 'https://https://www.linkedin.com/in/adept-data/'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px" align="center"/></a> <a href = 'https://www.github.com/adept-data'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px" align="center"/></a>
+<a href = 'https://www.twitter.com/'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px" align="center"/></a> <a href = 'https://www.linkedin.com/in/adept-data/'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px" align="center"/></a> <a href = 'https://www.github.com/adept-data'> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px" align="center"/></a>
 
 <h2>My GitHub Stats <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&amp;rid=giphy.gif" width="32px"/></h2>
 
